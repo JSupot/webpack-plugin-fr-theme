@@ -1,6 +1,6 @@
 {
   "name": "webpack-plugin-fr-theme",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "license": "MIT",
   "description": "form-render theme plugin",
   "author": "JSupot",
@@ -35,11 +35,10 @@
   "keywords": [
     "webpack",
     "plugin",
-    "webpack-plugin-fr-theme",
-    "html-webpack-plugin"
+    "webpack-plugin-fr-theme"
   ],
-  "homepage": "https://github.com/jantimon/html-webpack-plugin",
-  "repository": "https://github.com/jantimon/html-webpack-plugin.git",
+  "homepage": "https://github.com/JSupot/webpack-plugin-fr-theme",
+  "repository": "https://github.com/JSupot/webpack-plugin-fr-theme.git",
   "engines": {
     "node": ">=8.0"
   },
